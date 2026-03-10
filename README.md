@@ -2,7 +2,7 @@
 
 ## Repo for capture all my Learn to Cloud training and skill development data
 
-My notes will be a combination of cheat-sheets, pointers, and key insight\n
+My notes will be a combination of cheat-sheets, pointers, and key insight
 
 ## Objectives
 
