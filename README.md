@@ -1,6 +1,6 @@
-# Learn to Cloud Training | Project Walkthrough Documentation
+# Introduction 
 
-## Repo for capture all my Learn to Cloud training and skill development data
+## Repo for capture my training and project ideas
 
 My notes will be a combination of cheat-sheets, pointers, and key insight
 
