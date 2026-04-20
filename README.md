@@ -6,7 +6,7 @@ This is the home of all ideation of @TripleM3 (Mighty Mastermind). I currently w
 
 My areas of interests includes:
 
-- Identity Federation (Authentication and Authorization)
+- Identity (Authentication and Authorization)
 - Cloud Infrastructure
 - IT Automation
 - Python Programming
